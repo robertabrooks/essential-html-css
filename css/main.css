@@ -83,6 +83,10 @@ h2, h3 {
 	color: #505050;
 }
 
+h3 {
+	font-size: 125%;
+}
+
 header, section, footer {
 	padding: 1em;
 }
