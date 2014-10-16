@@ -31,8 +31,7 @@ a:hover {
 
 header {
 	background-color: #FA5A0F;
-	border-bottom: 5px;
-	border-color: #EA4A00;
+	border-bottom: 5px solid #EA4A00;
 	color: #FFFFFF;
 }
 
@@ -90,8 +89,7 @@ header, section, footer {
 
 footer {
 	background-color: #FC892F;
-	border-top: 5px;
+	border-top: 5px solid #EC791F;
 	font-size: 80%;
 	text-align: right;
-	border-top-color: #EC791F;
 }
