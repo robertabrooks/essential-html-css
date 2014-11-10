@@ -11,22 +11,14 @@ body {
 	background-attachment: fixed;
 }
 
-a:visited {
+main a:link, a:visited {
 	color: #0000AA;
 	text-decoration: none;
 }
 
-a:link {
-	color: #0000AA;
-	text-decoration: none;
-}
 
-input:focus {
-	background-color: #0000EE;
-}
-
-a:hover {
-	background-color: #0000EE;
+main a:hover, a:focus {
+	color: #0000EE;
 }
 
 header {
